@@ -12,6 +12,11 @@
 * [The one question I should’ve asked before learning to program](https://medium.freecodecamp.org/the-one-question-i-shouldve-asked-before-learning-to-program-17b6d3a629b7)
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Why you learn the most when you feel like you’re struggling as a developer](https://medium.freecodecamp.org/why-you-learn-the-most-when-you-feel-like-youre-struggling-as-a-developer-7513327c8ee4)
+* [How to be a great programmer](https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d)
+* [Am I a “real” Software Engineer yet?](https://medium.freecodecamp.org/am-i-a-real-software-engineer-yet-a0f38a2248c0)
+* [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)
+* [What I’ve learned six months into my first job as a self-taught software engineer](https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86)
 
 
 ---

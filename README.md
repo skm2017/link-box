@@ -12,3 +12,7 @@
 * [The one question I should’ve asked before learning to program](https://medium.freecodecamp.org/the-one-question-i-shouldve-asked-before-learning-to-program-17b6d3a629b7)
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+
+
+---
+**Note**: Above links are collected from the Internet if you are the author of the linked articles/videos and want the link to be removed, please let me know.

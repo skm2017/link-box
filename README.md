@@ -1,6 +1,6 @@
 # Link Box
  
-#### A collection of links to different articles, and videos found on the Internet about programming and related topics:
+#### A collection of useful links to different articles, and videos found on the Internet about programming and related topics:
 ---
 * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 * [Static vs. Dynamic Typing](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7)

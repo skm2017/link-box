@@ -2,6 +2,11 @@
  
 #### A collection of useful links to different articles, and videos found on the Internet about programming and related topics:
 ---
+* [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
+* [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+* [11 JavaScript Utility Libraries you Should Know in 2019](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
+* [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
+* [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript#toc-scope-in-javascript)
 * [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 * [Static vs. Dynamic Typing](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7)
 * [12 Concepts That Will Level Up Your JavaScript Skills](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104)

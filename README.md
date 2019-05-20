@@ -2,6 +2,7 @@
  
 #### A collection of useful links to different articles, and videos found on the Internet about programming and related topics:
 ---
+* [MongoDB Query Optimization Techniques](https://www.yudiz.com/mongodb-query-optimization-techniques/)
 * [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 * [11 JavaScript Utility Libraries you Should Know in 2019](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
